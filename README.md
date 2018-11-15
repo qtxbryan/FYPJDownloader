@@ -1,4 +1,4 @@
-# GooglePlayCrawler
+# FYPJDownloader
 
 A python script to batch download mobile apps from Google Play Store. It supports batch downloading by collection/categorie (default to Top Free 120) as well as recording the information (such as downloads/version/size/ratings/supported Android version etc.) of downloaded APKs in a csv files.
 
